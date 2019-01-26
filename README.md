@@ -5,7 +5,7 @@ Examples from Week 3 of OKCoders
 ## Setup
 
 * On one comand line session
-    * spm install
+    * npm install
     * mongodb --dbpath db/
 * on another command line run:
     * npm start
