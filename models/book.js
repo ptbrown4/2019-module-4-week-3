@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 
 var schema = mongoose.Schema({
     title: String,
-    author: Number,
+    author: String,
     read: Boolean
 });
 
