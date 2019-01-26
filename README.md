@@ -16,3 +16,6 @@ Application should be running on localhost:3000
 brew services stop mongodb
 ps aux|grep mongo
 kill -9 624
+
+require looks in the current folder first
+    if it doesn't have a path, then looks in node modules
